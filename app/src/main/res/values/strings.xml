@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Skillfactory Project</string>
+    <string name="button3">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="button4">ПОДБОРКИ</string>
+    <string name="button5">НАСТРОЙКИ</string>
+    <string name="button2">ИЗБРАННОЕ</string>
+    <string name="button">МЕНЮ</string>
+    <string name="disclaimer">Картинки взяы с https://www.movieposters.com/</string>
+    <string name="toolbar_settings">Настройки</string>
+    <string name="navigation_favorites">Избранное</string>
+    <string name="navigation_watch_later">Посмотреть позже</string>
+    <string name="navigation_selections">Подборки</string>
+    <string name="page">Мой проект</string>
 </resources>
